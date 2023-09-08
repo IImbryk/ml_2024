@@ -1,5 +1,5 @@
 ## Задание: 
-- Установить Python > 3.8
+- Установить Python > 3.8. [Инструкция по установке] (https://ods.ai/tracks/open-ml-course/blocks/4de086db-8793-48a9-8560-72b8f5b6c65e)
 - Установить библиотеку [gymnasium](https://www.gymlibrary.dev/environments/box2d/lunar_lander/)
   ```
   pip install gymnasium
