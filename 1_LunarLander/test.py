@@ -14,7 +14,7 @@ vid = VideoRecorder(env, path=f"random_luna_lander.mp4")
 observation = env.reset()[0]
 
 
-def Random_games():
+def random_games():
     # Each of this episode is its own game.
     env.reset()
     done = False
@@ -36,4 +36,4 @@ def Random_games():
     env.close()
 
 
-Random_games()
+random_games()
