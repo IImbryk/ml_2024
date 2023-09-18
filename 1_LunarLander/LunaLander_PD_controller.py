@@ -90,7 +90,6 @@ def optimize(params, current_score, env, step):
         score = start_game(env, test_params)
         scores.append(score)
     avg = np.mean(scores)
-    print(avg, test_params)
 
     # Обновить параметры, если среднее значение награды
     # лучше чем с предыдущими параметрами
@@ -117,8 +116,7 @@ if __name__ == "__main__":
         score = start_game(env, params_pd, video_recorder=False)
         for steps in range(100):
             params_pd, score = optimize(params_pd, score, env, steps+1)
-            if steps % 10 == 0:
-                print("Step:", steps, "Score:", score, "Params:", params_pd)
+            print("Step:", steps, "Score:", score, "Params:", params_pd)
     else:
         vid = VideoRecorder(env, path=f"random_luna_lander.mp4")
         params_pd = np.array([0.84827712, -1.55060286, -1.82178159, 0.8182234])
