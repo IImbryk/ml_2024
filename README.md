@@ -41,6 +41,11 @@ https://www.kaggle.com/datasets
 https://github.com/awesomedata/awesome-public-datasets 
 [](https://www.kaggle.com/datasets)https://archive-beta.ics.uci.edu/
 
+2. Запросить данные на работе
+3. Модель в ДУ можно подсмотреть тут или находить в научных статьях:
+    
+    [prbook.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/967bc864-fa93-4ebb-a65a-1738a06dd035/807630ea-9602-41b9-a301-d10520a98cc2/prbook.pdf)
+
 
 ## План-капкан (будет заполняться по ходу)
 | Дата       | Тема                | Домашка |
@@ -53,7 +58,4 @@ https://habr.com/ru/company/ods/blog/322626/
 
 https://academy.yandex.ru/handbook/ml
 
-1. Запросить данные на работе
-2. Модель в ДУ можно подсмотреть тут или находить в научных статьях:
-    
-    [prbook.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/967bc864-fa93-4ebb-a65a-1738a06dd035/807630ea-9602-41b9-a301-d10520a98cc2/prbook.pdf)
+
