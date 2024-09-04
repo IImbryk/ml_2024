@@ -39,6 +39,10 @@ https://github.com/awesomedata/awesome-public-datasets
 [](https://www.kaggle.com/datasets)https://archive-beta.ics.uci.edu/
 
 
+## План-капкан (будет заполняться по ходу)
+| Дата       | Тема                | Домашка |
+| ------------- |:------------------:| -----:|
+| ?     |  задачи ML, классификация  | классификация нагрузки сети майнер/не майнер  |
 
 ### Будем брать из курса ODS:
 
