@@ -18,6 +18,8 @@
 - Подготовка данных, анализ данных, модель объекта;
 - Визуализация данных и доп. анализ данных (дашборды — Grafana, Qlick Sense, Python Dash и другие);
 
+Коротко, какие могут быть темы:
+
 [Пример 1. Мониторинг электроэнергии на производстве. ](https://www.notion.so/1-c702e38dda4b4b8d921ce3b5cc45c944?pvs=21)
 
 [Пример 2. Подбор слуховых аппаратов для пациентов](https://www.notion.so/2-800f16a63eb54b109bbee21fb6445c29?pvs=21)
@@ -25,3 +27,18 @@
 [Пример 3. Модель газоперекачивающего агрегата](https://www.notion.so/3-b2bfdddd1a47492d93d1b146cb635a49?pvs=21)
 
 [Пример 4. Динамическая модель опухоли](https://www.notion.so/4-f50445b2530345cc9f689ce64f1077c8?pvs=21)
+
+
+
+## Где взять данные/модель для проекта
+1. Взять общеизвестный датасет из открытого доступа, например, найти здесь (из других источников)	
+
+https://www.kaggle.com/datasets 
+
+https://github.com/awesomedata/awesome-public-datasets 
+[](https://www.kaggle.com/datasets)https://archive-beta.ics.uci.edu/
+
+1. Запросить данные на работе
+2. Модель в ДУ можно подсмотреть тут или находить в научных статьях:
+    
+    [prbook.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/967bc864-fa93-4ebb-a65a-1738a06dd035/807630ea-9602-41b9-a301-d10520a98cc2/prbook.pdf)
