@@ -38,6 +38,14 @@ https://www.kaggle.com/datasets
 https://github.com/awesomedata/awesome-public-datasets 
 [](https://www.kaggle.com/datasets)https://archive-beta.ics.uci.edu/
 
+
+
+### Будем брать из курса ODS:
+
+https://habr.com/ru/company/ods/blog/322626/
+
+https://academy.yandex.ru/handbook/ml
+
 1. Запросить данные на работе
 2. Модель в ДУ можно подсмотреть тут или находить в научных статьях:
     
