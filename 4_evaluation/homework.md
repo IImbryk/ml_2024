@@ -11,7 +11,7 @@
 wget https://archive.ics.uci.edu/static/public/222/bank+marketing.zip
 unzip bank+marketing.zip 
 unzip bank.zip
-
+```
 
 
 В этом наборе данных целевой переменной является переменная `y` — подписался ли клиент на срочный депозит или нет.
@@ -66,7 +66,7 @@ AUC может быть ниже 0.5, если переменная отрица
 
 ```python
 LogisticRegression(solver='liblinear', C=1.0, max_iter=1000)
-
+```
 
 Какой AUC у этой модели на валидационном наборе данных? (округлите до 3 знаков)
 
@@ -118,7 +118,7 @@ $$F_1 = 2 \cdot \cfrac{P \cdot R}{P + R}$$
 
 ```python
 KFold(n_splits=5, shuffle=True, random_state=1)
-
+```
 
 * Итеративно пройдите по различным фолдам из `df_full_train`.
 * Разделите данные на обучающую и валидационную выборки.
