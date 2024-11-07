@@ -12,7 +12,7 @@
 
 ```python
 df.columns = df.columns.str.lower().str.replace(' ', '_')
-
+```
 ### Подготовка
 
 * Удалите столбец `student_id`.
