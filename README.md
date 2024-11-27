@@ -59,6 +59,7 @@ https://data.worldbank.org/
 |10.10.2024|классификация| [домашка по ссылка](https://github.com/IImbryk/ml_2024/blob/main/3_classification/homework.md)|
 |31.10.2024| Метрики качества |[домашка по ссылка](https://github.com/IImbryk/ml_2024/blob/main/4_evaluation/homework.md), дедлайн 28.11.2024|
 |14.11.2024| Деревья решений, Ансамблевые методы|[домашка по ссылка](https://github.com/IImbryk/ml_2024/blob/main/5_trees/homework.md), дедлайн 28.11.2024|
+|28.11.2024| Streamlit (простой веб-интерфейс для модели)|прикрепить ссылку на гит с наработками по проекту|
 
 
 ### Будем брать из курса ODS:
